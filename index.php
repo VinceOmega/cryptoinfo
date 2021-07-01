@@ -25,18 +25,14 @@
                     <div class="col-lg-6">
                         <!-- Mashead text and app badges-->
                         <div class="mb-5 mb-lg-0 text-center text-lg-start">
-                            <h1 class="display-1 lh-1 mb-3">Showcase your app beautifully.</h1>
-                            <p class="lead fw-normal text-muted mb-5">Launch your mobile app landing page faster with this free, open source theme from Start Bootstrap!</p>
-                            <div class="d-flex flex-column flex-lg-row align-items-center">
-                                <a class="me-lg-3 mb-4 mb-lg-0" href="#!"><img class="app-badge" src="assets/img/google-play-badge.svg" alt="..." /></a>
-                                <a href="#!"><img class="app-badge" src="assets/img/app-store-badge.svg" alt="..." /></a>
-                            </div>
+                            <h1 class="display-1 lh-1 mb-3">What are crypto currencies!?</h1>
+                            <p class="lead fw-normal text-muted mb-5">Elit tempor aliqua cupidatat commodo ex aute eu do minim quis consectetur excepteur cupidatat. Cillum consequat dolore eiusmod nulla sit elit incididunt cupidatat. Ex veniam amet quis in labore sint ea aliquip occaecat elit commodo quis. Nisi esse aliquip dolore officia voluptate. Dolore fugiat ipsum duis dolor dolore eu adipisicing commodo. Laborum pariatur aute aute irure voluptate mollit velit laboris laboris. Magna labore dolore pariatur aliquip.</p>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <!-- This is where the bitcoin icon will be -->
                         <div class="masthead-device-mockup">
-                            <img src="##">
+                            <img src="/assets/img/bitcoin-icon-6219383.svg">
                         </div>
                     </div>
                 </div>

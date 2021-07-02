@@ -25,15 +25,13 @@
                     <div class="col-lg-6">
                         <!-- Mashead text and app badges-->
                         <div class="mb-5 mb-lg-0 text-center text-lg-start">
-                            <h1 class="display-1 lh-1 mb-3">What are crypto currencies!?</h1>
+                            <h1 class="display-1 lh-1 mb-3">Cryptos? What are they?</h1>
                             <p class="lead fw-normal text-muted mb-5">Elit tempor aliqua cupidatat commodo ex aute eu do minim quis consectetur excepteur cupidatat. Cillum consequat dolore eiusmod nulla sit elit incididunt cupidatat. Ex veniam amet quis in labore sint ea aliquip occaecat elit commodo quis. Nisi esse aliquip dolore officia voluptate. Dolore fugiat ipsum duis dolor dolore eu adipisicing commodo. Laborum pariatur aute aute irure voluptate mollit velit laboris laboris. Magna labore dolore pariatur aliquip.</p>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-sm-8 col-md-6">
                         <!-- This is where the bitcoin icon will be -->
-                        <div class="masthead-device-mockup">
-                            <img src="/assets/img/bitcoin-icon-6219383.svg">
-                        </div>
+                        <div class="px-5 px-sm-0"><img src="/assets/img/bitcoin-icon-6219383.svg"></div>
                     </div>
                 </div>
             </div>
@@ -42,18 +40,18 @@
         <section class="bg-light">
             <div class="container px-5">
                 <div class="row gx-5 align-items-center justify-content-center justify-content-lg-between">
-                    <div class="col-12 col-lg-5">
-                        <h2 class="display-4 lh-1 mb-4">Enter a new age of web design</h2>
-                        <p class="lead fw-normal text-muted mb-5 mb-lg-0">This section is perfect for featuring some information about your application, why it was built, the problem it solves, or anything else! There's plenty of space for text here, so don't worry about writing too much.</p>
-                    </div>
                     <div class="col-sm-8 col-md-6">
-                        <div class="px-5 px-sm-0"><img class="img-fluid rounded-circle" src="https://source.unsplash.com/u8Jn2rzYIps/900x900" alt="..." /></div>
+                        <div class="px-5 px-sm-0"><img class="img-fluid rounded-circle" src="/assets/img/bitcoin-icon-6219383.svg" alt="..." /></div>
+                    </div>
+                    <div class="col-12 col-lg-5">
+                        <h2 class="display-4 lh-1 mb-4">A brief history of crypto currencies</h2>
+                        <p class="lead fw-normal text-muted mb-5 mb-lg-0">Pariatur ex nisi in adipisicing. Non eu dolore occaecat ea eiusmod amet duis sint mollit ipsum laborum sint. Tempor qui sunt ex excepteur. Officia mollit duis qui aliqua consectetur minim excepteur enim quis.</p>
                     </div>
                 </div>
             </div>
         </section>
         <!-- App badge section-->
-        <section class="bg-white" id="download">
+        <section class="bg-light" id="download">
             <div class="container px-5">
                 <h2 class="text-center text-white font-alt mb-4">
                     Buy us Coffee with Ko-Fi
